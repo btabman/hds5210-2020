@@ -1,0 +1,18 @@
+PART 1:
+Using BeautifulSoup was good, but it would have been easier with Pandas read_html()
+Nice practice parsing the HTML, though.
+
+PART 2:
+Nice work, and good catch with the location index shifting.
+
+PART 3:
+Good job.
+
+PART 4:
+Nice work validating your input.
+
+PART 5:
+Excellent
+
+PART 6:
+Good thinking
